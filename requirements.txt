@@ -1,0 +1,6 @@
+# Core dependencies for Gemini TTS ComfyUI Node
+google-generativeai>=0.8.0
+requests>=2.25.0
+
+# Optional: For enhanced audio processing (if needed)
+# sounddevice>=0.4.0
