@@ -1,0 +1,5 @@
+{
+    "GEMINI_API_KEY": "put_your_api-key_here",
+    "use_paid_tier": true,
+    "billing_project_id": "put_your_project-id_here"
+}
