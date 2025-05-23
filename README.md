@@ -1,6 +1,9 @@
 # 🎙️ ComfyUI-Gemini_TTS
 A powerful ComfyUI custom node that brings Google's Gemini TTS capabilities directly to your workflow. Generate high-quality speech with 30+ voices supporting both free and paid tiers.
 
+![image](https://github.com/user-attachments/assets/23836f62-efcf-40ad-bfb0-37d64c06215e)
+
+
 ## ✨ Features
 
 - **30+ Premium Voices**: Male and female voices with unique characteristics
@@ -18,7 +21,7 @@ A powerful ComfyUI custom node that brings Google's Gemini TTS capabilities dire
 1. **Clone or download** this repository to your ComfyUI custom nodes folder:
    ```bash
    cd ComfyUI/custom_nodes/
-   git clone [repository-url] gemini-tts-node
+   git clone https://github.com/ShmuelRonen/ComfyUI-Gemini_TTS.git
    ```
 
 2. **Install dependencies**:
