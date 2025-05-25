@@ -1,0 +1,15 @@
+[project]
+name = "gemini_tts"
+description = "A powerful ComfyUI custom node that brings Google's Gemini TTS capabilities directly to your workflow. Generate high-quality speech with 30+ voices supporting both free and paid tiers."
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = ["# Core dependencies for Gemini TTS ComfyUI Node", "google-generativeai>=0.8.0", "requests>=2.25.0", "# Optional: For enhanced audio processing (if needed)", "# sounddevice>=0.4.0"]
+
+[project.urls]
+Repository = "https://github.com/ShmuelRonen/ComfyUI-Gemini_TTS"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-Gemini_TTS"
+Icon = ""
